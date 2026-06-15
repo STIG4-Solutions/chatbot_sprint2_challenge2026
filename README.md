@@ -105,7 +105,7 @@ O mercado de mobilidade elétrica no setor comercial carece de mecanismos integr
 
 ## Arquitetura
 
-Ver fluxograma completo com representação da memória de conversa e loop RAG em [`docs/arquitetura_sprint2.md`](docs/arquitetura_sprint2.md).
+![Fluxo completo de uma interação — ChargeGrid Intelligence](docs/arquitetura_sprint2.png)
 
 **Resumo do fluxo:**
 ```
