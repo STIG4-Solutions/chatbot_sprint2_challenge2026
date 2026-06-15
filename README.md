@@ -296,4 +296,4 @@ tiktoken>=0.7.0
 
 ## Demonstração em Vídeo
 
-[Link do vídeo no YouTube — a preencher após gravação]
+[Link do vídeo no YouTube](https://youtu.be/eGobU5ui2es)
